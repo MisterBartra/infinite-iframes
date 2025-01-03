@@ -4,15 +4,18 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 
-First, install node_modules for React
+First, install **nodejs** with [source direct link] https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi for Windows or choose [Node.js — Download Node.js®]https://nodejs.org/en/download
+
+After that, download this repository put all files inside of directory and install node_modules to start.
 
 ```bash
 npm install
 ```
 
-And run the development server:
+And finally, run the development server:
 
 ```bash
+# Windows
 npm run dev
 # or
 yarn dev
